@@ -3,3 +3,5 @@
 **MATH 6190: Kan Seminar on Algebraic K-Theory** (Spring 2025) is a seminar class on algebraic K-theory at the University of Pennsylvania led by Mona Merling. The class is modeled after the Kan seminar model at MIT, where the students take turn to give lectures on a list of pre-determined topics, and the other students engage the material in a discussion forum before the corresponding lecture. For more details and the schedule of the seminar, please visit the course website at <a href='https://www2.math.upenn.edu/~mmerling/math619_25.html' target="_blank">this link</a>.
 
 This document contains the lecture notes for the class (with the exception of Lecture 5, see the context bubble at the beginning of the corresponding section) and an appendix on additional materials related to the class. The notes can be found at <a href='main.pdf' target="_blank">main.pdf</a>.
+
+MATH 6190 is a continuation of MATH 6180 in the Fall 2024 semester, taught by Jonathan Block. The notes and description for MATH 6180 can be found <a href='https://github.com/maroon-scorch/MATH6180-Algebraic-Topology-Notes'>here</a>.
